@@ -88,7 +88,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/CopperCAM/muieu/")
+			(outputdirectory "./")
 		)
 	)
 	(footprint "Package_DIP:DIP-28_W15.24mm_Socket_LongPads"

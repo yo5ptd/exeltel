@@ -532,7 +532,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/CopperCAM/muieu/",
+      "plot": "./",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
