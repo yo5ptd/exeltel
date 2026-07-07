@@ -1,3 +1,5 @@
 ".history" 
 ".history/" 
 "*.lck" 
+"exeltel-backups/" 
+"*.lck" 
